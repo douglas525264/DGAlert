@@ -1,0 +1,1 @@
+../../../../../DGAlert/Classes/ADManager.h

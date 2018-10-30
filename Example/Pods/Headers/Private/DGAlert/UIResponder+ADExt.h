@@ -1,0 +1,1 @@
+../../../../../DGAlert/Classes/UIResponder+ADExt.h

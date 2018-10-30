@@ -1,0 +1,6 @@
+framework module Pods_DGAlert_Tests {
+  umbrella header "Pods-DGAlert_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
